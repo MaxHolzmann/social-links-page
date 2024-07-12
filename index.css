@@ -3,7 +3,7 @@ body {
 }
 
 main {
-  background-color: hsl(0, 0%, 20%);
+  background-color: hsl(0, 0%, 12%);
   color: white;
   display: flex;
   flex-direction: column;
@@ -54,7 +54,7 @@ main img {
 .urls a {
   text-decoration: none;
   color: white;
-  background-color: hsl(0, 0%, 12%);
+  background-color: hsl(0, 0%, 20%);
   padding: 15px;
   width: 100%;
   text-align: center;
