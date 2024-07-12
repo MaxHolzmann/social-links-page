@@ -1,0 +1,10 @@
+main {
+  background-color: darkgray;
+}
+.urls {
+}
+.urls a {
+  text-decoration: none;
+  color: white;
+  background-color: gray;
+}
